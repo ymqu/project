@@ -33,5 +33,5 @@ jobs:
         uses: Bidaya0/sql-lint-in-action@v0.0.2
         with:
     # The path of sql file located
-          path: .
+          path: ./project/
     
